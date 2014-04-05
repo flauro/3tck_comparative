@@ -180,7 +180,7 @@ as the results may vary.
 
 -help (-h) displays this help
 
--vervose (-v) amount of information displayed (0 = no messages)
+-verbose (-v) amount of information displayed (0 = no messages)
 
 
 =head1 AUTHOR - Federico Lauro
